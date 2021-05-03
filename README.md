@@ -1,9 +1,11 @@
 # mine
-mine-cpu
+mine-cpu-linux
 
 Mine VRSC (Linux)
 
 Ubuntu, Kali Linux, Debian, Fedora
+
+This script uses Hellminer to mine VRSC a CPU minable cryptocurrency.
 
 Install
 
