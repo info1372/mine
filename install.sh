@@ -1,6 +1,5 @@
 #!/bin/bash
 sudo apt-get install git
-sudo apt-get xdotool
 git clone https://github.com/info1372/mine.git
 cd mine
 sudo chmod +x mine.sh
