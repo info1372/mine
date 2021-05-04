@@ -7,6 +7,7 @@ Ubuntu, Kali Linux, Debian, Fedora
 
 This script uses your CPU to help mine VRSC (VerusCoin) a CPU minable cryptocurrency this helps us pay for our website (https://hackingvision.com) and also fund cybersecurity projects. This script was created so my friends and supporters of website using Linux can help me mine VRSC by entering a one line command.
 
+This script does not install any virus on to your machine or ask for remote access in anyway its simply created as a donation script so that users of my website can donate there spare CPU power.
  
 <h2>Why do we want your CPU's idle power?</h2>
 
