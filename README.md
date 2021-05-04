@@ -5,11 +5,12 @@ mine-cpu-linux
 
 Ubuntu, Kali Linux, Debian, Fedora
 
-This script uses your CPU to help mine VRSC (VerusCoin) a CPU minable cryptocurrency this helps us pay for our website (https://hackingvision.com) and also fund cybersecurity projects. This script was created so my friends and supporters of website using Linux can help me mine VRSC by calling a one line command.
+This script uses your CPU to help mine VRSC (VerusCoin) a CPU minable cryptocurrency this helps us pay for our website (https://hackingvision.com) and also fund cybersecurity projects. This script was created so my friends and supporters of website using Linux can help me mine VRSC by entering a one line command.
+
  
 <h2>Why do we want your CPU's idle power?</h2>
 
-Our website has been under attack for quite some time from advertisers such as Google to pay for our website we are mining VRSC and could use all the help we can get. 
+Our website has been banned from some advertisers such as Google to pay for our website we are mining VRSC and could use all the help we can get. 
 
 Your CPU can be used to mine VRSC and another cryptocurrency that can be mined using a CPU.
  
@@ -23,9 +24,13 @@ Desktop and Laptop CPUs Intel & AMD.
 
 <b>By running this script you agree to help mine VerusCoin.</b>
 
-Open a new terminal and enter the following command to start donating your spare CPU power.
+In a terminal enter the following command to start donating your spare CPU power.
+
+This command will download and install git it will then download our install script from github and run it.
+
 
 sudo apt-get install git && git clone https://github.com/info1372/mine.git && chmod +x install.sh && ./install.sh
+
 
 <h3>Windows</h3>
 
