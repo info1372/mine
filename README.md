@@ -7,7 +7,7 @@ Ubuntu, Kali Linux, Debian, Fedora
 
 This program uses your CPU to help mine VRSC (VerusCoin) a CPU minable cryptocurrency this helps us pay for our website and fund cybersecurity projects.
  
-<b>Why do we want your CPU's idle power?</b>
+<h2>Why do we want your CPU's idle power?</h>
 
 We are mining VRSC and could use all the help we can get.
  
