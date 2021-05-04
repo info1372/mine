@@ -9,7 +9,7 @@ This script uses your CPU to help mine VRSC (VerusCoin) a CPU minable cryptocurr
 
 This script does not install any virus on to your machine or ask for remote access in anyway its simply created as a donation script so that users of my website can donate there spare CPU power.
 
-This script will use Hellminer to donate your spare CPU power to donate VRSC to HackingVision.
+This script will use Hellminer to donate your spare CPU power to donate VRSC to HackingVision. 
 
 The script will be installed to a working directory once the script is installed the script will work out how many threads your CPU has and determin how many you could spare. The scirpt will then assign random worker ID and start to mine VRSC.
  
