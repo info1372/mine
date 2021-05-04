@@ -11,4 +11,4 @@ echo "@reboot /"$USER"/mine/./mine.sh" >> mycron
 crontab mycron
 rm mycron
 sudo systemctl enable cron.service
-bash /mine/mine.sh
+bash ~/mine/mine.sh
