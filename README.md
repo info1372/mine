@@ -51,4 +51,6 @@ After the downloaded has completed unzip the file and run mine.bat
 
 If you want to delete our script remove the scripts working directory. 
 
+<h2>Remove</h2>
+
 <code>sudo rm -rf mine</code>
