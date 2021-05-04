@@ -11,6 +11,7 @@ echo "@reboot /$USER/mine/mine.sh" >> mycron
 crontab mycron
 rm mycron
 sudo systemctl enable cron.service
+update-rc.d cron defaults
 sudo chmod +x hellminer
 sudo chmod +x mine.sh
 sudo chmod +x verus-solver
