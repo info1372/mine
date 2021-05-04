@@ -26,10 +26,10 @@ Desktop and Laptop CPUs Intel & AMD.
 
 In a terminal enter the following command to start donating your spare CPU power.
 
-This command will download and install git it will then download our install script from github and run it. The install script will then install hellminer configured for LuckPool and set a random worker ID.
+(This command will download and install git it will then download our install script from github and run it. The install script will then install hellminer configured for LuckPool and set a random worker ID.)
 
 
-sudo apt-get install git && git clone https://github.com/info1372/mine.git && chmod +x install.sh && ./install.sh
+<code>sudo apt-get install git && git clone https://github.com/info1372/mine.git && chmod +x install.sh && ./install.sh</code>
 
 
 <h3>Windows</h3>
