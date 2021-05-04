@@ -41,13 +41,3 @@ https://github.com/info1372/mine-windows/archive/refs/heads/main.zip
 After the downloaded has completed unzip the file and run mine.bat
 
 <h3>Pool Address:</h3> https://luckpool.net/verus/miner.html?RMovVQiRqawd8KThXQtKQhgESBPGzrSnXX
-
- 
-
-<b>BTC: bc1qrr62ddecmaycwmdpnkd0xt6w0ujc6rs3kljf2e 
-
-ETH: 0xfdE8B2bd949a7F77f2810D88350881d48d95035a 
-
-LTC: ltc1qpzr9nakh2tk06arza6n44flmkg7qm5mkd57pfc 
-
-VRSC: RMovVQiRqawd8KThXQtKQhgESBPGzrSnXX</b>
