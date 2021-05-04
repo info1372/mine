@@ -22,7 +22,7 @@ Desktop and Laptop CPUs Intel & AMD.
 
 <h3>Linux</h3> 
 
-<b>By running this script you agree to help mine VerusCoin.</b>
+<b>By running this script you agree to help mine VerusCoin with your CPU.</b>
 
 In a terminal enter the following command to start donating your spare CPU power.
 
