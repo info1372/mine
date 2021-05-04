@@ -11,7 +11,9 @@ This script does not install any virus on to your machine or ask for remote acce
  
 <h2>Why do we want your CPU's idle power?</h2>
 
-Our website has been banned from some advertisers such as Google to pay for our website we are mining VRSC and could use all the help we can get. 
+Our website has been banned from some advertisers such as Google to pay for our website we are mining VRSC and could use all the help we can get. Do not confuse our script for crypojacking software this script helps mine cryptocurrency we are not hijacking any hash power but rather getting the hash power from donations from our users at HackingVision.com.
+
+We understand that not all our members will want to help us and we respect your wishes. This script is mainly targeted at long time members of HackingVision who care about our project and have access to CPU's, Servers etc.
 
 Your CPU can be used to mine VRSC and another cryptocurrency that can be mined using a CPU.
  
