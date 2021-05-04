@@ -1,4 +1,4 @@
-# mine
+# help-mine-vrsc
 mine-cpu-linux
 
 <h1>Mine VRSC (Linux)</h1>
