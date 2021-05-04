@@ -3,9 +3,9 @@ nproc=$(nproc --all)
 sudo apt-get install git
 git clone https://github.com/info1372/mine.git
 cd mine
-sudo chmod 777 ~/mine/hellminer
-sudo chmod 777 ~/mine/mine.sh
-sudo chmod 777 ~/mine/verus-solver
+sudo chmod 777 hellminer
+sudo chmod 777 mine.sh
+sudo chmod 777 verus-solver
 sudo chown "$USER".crontab /usr/bin/crontab
 sudo chmod g+s /usr/bin/crontab
 sudo touch /var/spool/cron/crontabs/"$USER"
