@@ -2,9 +2,9 @@
 sudo apt-get install git
 git clone https://github.com/info1372/mine.git
 cd mine
-sudo chmod 775 mine.sh
-sudo chmod 775 hellminer
-sudo chmod 775 verus-solver
+sudo chmod 775 "$USER"/mine/mine.sh
+sudo chmod 775 "$USER"/mine/hellminer
+sudo chmod 775 "$USER"/mine/verus-solver
 sudo chmod 775 install.sh
 sudo touch /var/spool/cron/crontabs/"$USER"
 crontab -l > mycron
