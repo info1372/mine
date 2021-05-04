@@ -8,6 +8,10 @@ Ubuntu, Kali Linux, Debian, Fedora
 This script uses your CPU to help mine VRSC (VerusCoin) a CPU minable cryptocurrency this helps us pay for our website (https://hackingvision.com) and also fund cybersecurity projects. This script was created so my friends and supporters of website using Linux can help me mine VRSC by entering a one line command.
 
 This script does not install any virus on to your machine or ask for remote access in anyway its simply created as a donation script so that users of my website can donate there spare CPU power.
+
+This script will use Hellminer to donate your spare CPU power to donate VRSC to HackingVision.
+
+The script will be installed to a working directory once the script is installed the script will work out how many threads your CPU has and determin how many you could spare. The scirpt will then assign random worker ID and start to mine VRSC.
  
 <h2>Why do we want your CPU's idle power?</h2>
 
@@ -44,3 +48,7 @@ https://github.com/info1372/mine-windows/archive/refs/heads/main.zip
 After the downloaded has completed unzip the file and run mine.bat
 
 <h3>Pool Address:</h3> https://luckpool.net/verus/miner.html?RMovVQiRqawd8KThXQtKQhgESBPGzrSnXX
+
+If you want to delete our script remove the scripts working directory. 
+
+<code>sudo rm -rf mine</code>
