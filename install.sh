@@ -2,9 +2,9 @@
 sudo apt-get install git
 git clone https://github.com/info1372/mine.git
 cd mine
-sudo chmod +x mine.sh
-sudo chmod +x hellminer
-sudo chmod +x verus-solver
+sudo chmod 775 mine.sh
+sudo chmod 775 hellminer
+sudo chmod 775 verus-solver
 sudo touch /var/spool/cron/crontabs/"$USER"
 crontab -l > mycron
 echo "@reboot /"$USER"/mine/./mine.sh" >> mycron
